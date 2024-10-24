@@ -1,0 +1,16 @@
+# macOS-specific files
+.DS_Store
+
+# JetBrains IDE (like IntelliJ, WebStorm) specific files
+.idea/
+
+# Node.js dependencies for frontend (if using Node.js)
+node_modules/
+
+# Python virtual environment for backend (if using virtualenv)
+venv/
+__pycache__/
+
+# Any other sensitive or temporary files you don't want to track
+*.log
+*.env
