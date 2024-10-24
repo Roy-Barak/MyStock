@@ -76,4 +76,4 @@ You can interact with the application via the frontend, which communicates with 
 
 Feel free to open issues and submit pull requests.
 
-
+**All rights reserved for Roy Barak**
