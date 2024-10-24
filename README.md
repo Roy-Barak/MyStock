@@ -76,6 +76,4 @@ You can interact with the application via the frontend, which communicates with 
 
 Feel free to open issues and submit pull requests.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
