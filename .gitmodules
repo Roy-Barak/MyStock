@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Roy-Barak/MyStock-Front.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:Roy-Barak/MyStock-Backend.git
