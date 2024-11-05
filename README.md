@@ -5,6 +5,12 @@ This is the main repository for the MyStock application, which consists of two s
 - **Frontend**: Built using React to provide the user interface for interacting with the backend.
 - **Backend**: Built using Flask to handle user authentication, portfolio management, and stock market data management.
 
+## Deployment
+
+The application is deployed on Vercel. You can access the live application at:
+
+- **[MyStock Application](https://my-stock-front.vercel.app)** 
+
 ## Setup Instructions
 
 To set up and run the MyStock application locally, follow these steps:
